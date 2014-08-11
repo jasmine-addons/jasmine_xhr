@@ -1,0 +1,9 @@
+requirejs.config({
+  paths: {
+    'sinon': '../node_modules/sinon/pkg/sinon'
+  },
+
+  shim: {
+    'sinon': { exports: 'sinon' }
+  }
+});
