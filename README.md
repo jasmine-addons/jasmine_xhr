@@ -127,6 +127,7 @@ describe('my suite', function() {
         expect(this.lastRequest.url).toEqual('/users/1/profile');
     });
 });
+```
 
 #### requests
 
