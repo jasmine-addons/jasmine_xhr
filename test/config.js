@@ -14,6 +14,7 @@ requirejs.config({
   },
 
   deps: [
+    'sinon'
   ],
 
   callback: function() {
