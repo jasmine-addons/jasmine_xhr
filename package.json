@@ -1,15 +1,21 @@
 {
   "name": "jasmine_xhr",
   "description": "Jasmine helpers for testing XHR code using Sinon.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/jasmine-addons/jasmine_xhr",
   "author": {
     "name": "Ahmad Amireh",
     "email": "ahmad@algollabs.com",
     "url": "http://www.algollabs.com"
   },
-  "licenses": [ "MIT" ],
-  "keywords": [ "jasmine", "xhr", "sinon" ],
+  "licenses": [
+    "MIT"
+  ],
+  "keywords": [
+    "jasmine",
+    "xhr",
+    "sinon"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/jasmine-addons/jasmine_xhr"
